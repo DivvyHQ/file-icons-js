@@ -322,6 +322,12 @@
   font-size: 16px;
   top: 2px;
 }
+.brush-icon:before {
+  font-family: FontAwesome;
+  font-size: 13px;
+  content: "\f1fc";
+  font-size: 16px;
+}
 .bullhorn-icon:before {
   font-family: FontAwesome;
   font-size: 13px;
@@ -394,6 +400,12 @@
   font-size: 17px;
   top: 2px;
 }
+.microchip-icon:before {
+  font-family: FontAwesome;
+  font-size: 13px;
+  content: "\f2db";
+  font-size: 16px;
+}
 .mobile-icon:before {
   font-family: FontAwesome;
   font-size: 13px;
@@ -413,6 +425,12 @@
   font-size: 13px;
   content: "\f001";
   font-size: 15px;
+}
+.pdf-icon:before {
+  font-family: FontAwesome;
+  font-size: 13px;
+  content: "\f1c1";
+  font-size: 16px;
 }
 .print-icon:before {
   font-family: FontAwesome;
@@ -463,6 +481,12 @@
   font-size: 13px;
   content: "\f279";
   font-size: 14px;
+}
+.star-icon:before {
+  font-family: FontAwesome;
+  font-size: 13px;
+  content: "\f005";
+  font-size: 16px;
 }
 .sun-icon:before {
   font-family: FontAwesome;
